@@ -2,7 +2,7 @@
 
 This repository accompanies [*Getting the Message Across*](http://www.apress.com/9781484222942) by Stephane Faroult (Apress, 2016).
 
-![Cover image](9781484222942.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
